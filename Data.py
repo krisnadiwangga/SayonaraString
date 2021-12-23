@@ -13,7 +13,7 @@ Jika kamu tidak percaya bot ini,
 2) blokir bot atau delete chat
 
 Bot ini Bekerja Untuk Membantu Kamu Mendapatkan String Session Via Bot. Rekomendasi Jika Ingin Mengambil String Gunakan Akun Lain, Agar Tidak Delay. Terimakasih
-By @IDnyaKosong
+By @Sayonara_Nih
     """
 
     # Home Button
@@ -53,13 +53,13 @@ By @IDnyaKosong
     ABOUT = """
 **About This Bot** 
 
-Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @NastyStringbot
+Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @SayonaraStringbot
 
-Group Support : [ɢᴀʙᴜɴɢ](https://t.me/NastySupportt)
+Group Support : [ɢᴀʙᴜɴɢ](https://t.me/NaraXmusic)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @IDnyaKosong
+Developer : @Sayonara_nih
     """
